@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. Candidate in Computational Chemistry at the University of Manchester, where I am advised by Prof. **Nikolas Kaltsoyannis**. Before joining the University of Manchester, I obtained my M.S. degree in Chemical Technology from Tianjin University (Prof. **Qingfeng Ge**) in 2022. I also hold a B.E. degree in Chemical Engineering and Technology from China University of Petroleum (2019), and completed exchange programs at Khalifa University (Prof. **Lourdes F. Vega**) and Universiti Teknologi PETRONAS (Malaysia).  
+Hello! I am Dorothy Howard, an information scientist and archivist. My research includes studies of the dynamics of [knowledge production](https://en.wikipedia.org/wiki/Knowledge_economy) in [sociotechnical](https://en.wikipedia.org/wiki/Sociotechnical_system) systems, governance design, and [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_graph) development. I am trained in multiple research methods including [ethnography](https://en.wikipedia.org/wiki/Ethnography) (grounded theory, participant observation, interviews), content analysis, and historical and archival research. I has published peer-reviewed research and case studies about digital governance and open technology, funded by the Ford Foundation, the National Science Foundation, the University of California, the Processing Foundation, the Wikimedia Foundation, and others. I also has an M.A. in Communication from the University of California, San Diego.  
 
-My background is rooted in theoretical and computational chemistry. Moving forward, my research interests are focused on nanoscale computation, specifically its applications in materials and drug design. I possess strong expertise in various computational methodologies including **Density Functional Theory (DFT), molecular simulations (VASP, LAMMPS)**, and **quantum chemistry calculations (Gaussian)**. I am also highly proficient in **Python** for data analysis and simulation workflow automation, enabling me to explore complex systems for innovative solutions.  
+Dorothy has extensive knowledge of libraries, archives, and linked data. She started a MoMA Archives Linked Open Data Fellowship in September, 2025. From 2013 to 2016, Dorothy worked as a Wikipedian in Residence at the Metropolitan New York Library Council and Assistant at the Jean-Noël Herlin Archive Project. Dorothy has twelve years of Wikipedia editing and community organizing experience. She is currently attending Pratt Institute, School of Information (Archives specialization).  
 
-Please find my **CV** and **Google Scholar** [here](https://scholar.google.com/citations?hl=en&user=6IZOUtEAAAAJ). I am expected to be on the job market in late 2025 / early 2026. Please feel free to reach out :)  
-Email: [anlu.wei@postgrad.manchester.ac.uk](mailto:anlu.wei@postgrad.manchester.ac.uk)  
+She has also worked as a grant writer, web designer, and teacher's assistant.  
+
+Dorothy is also a cross-genre writer with publications that include experimental essays, poetry, short stories, and texts accompanying art exhibitions and music releases. She is the author of the chapbook Troll (Inpatient Press, 2015) and has published works in Vol. 1 Brooklyn, Canadian Art, Rhizome, DIS, The New Inquiry, The Wikipedia Signpost and more. Dorothy formerly produced and edited the Arachne Webzine, an experimental publishing project.  
+ 
 
 🎓 Experience
 ------

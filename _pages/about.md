@@ -24,10 +24,10 @@ Email: [anlu.wei@postgrad.manchester.ac.uk](mailto:anlu.wei@postgrad.manchester.
 - 09/2015 - 06/2019, B.E. in Chemical Engineering and Technology, China University of Petroleum (211 Project), Qingdao in China.
 
 **Research Experience**  
-- Research Assistant, Chinese Academy of Science, 06/2018 鈥?08/2018
+- Research Assistant, Chinese Academy of Science, 06/2018 - 08/2018
 
 **Teaching Experience**
-- Graduate Teaching Assistant, University of Manchester, 09/2023 鈥?06/2025
+- Graduate Teaching Assistant, University of Manchester, 09/2023 - 06/2025
 
 📜 Publication
 ------

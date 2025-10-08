@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+🎓 Experience
+------
+**Education**  
+- 09/2022 - 09/2026(Expected), Ph.D. in Computational Chemistry, University of Manchester, Manchester in UK.
+- 06/2019 - 06/2022, M.S. in Chemical Technology, Tianjin University (985 & 211 Project), Tianjin in China.
+- 01/2019 - 07/2019, Exchange Student, Khalifa University, Abu Dhabi in UAE.
+- 06/2017 - 08/2017, Exchange Student, Universiti Teknologi PETRONAS, Malaysia.
+- 09/2015 - 06/2019, B.E. in Chemical Engineering and Technology, China University of Petroleum (211 Project), Qingdao in China.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Research Experience**  
+- Research Assistant \| Chinese Academy of Science \| 06/2018 - 08/2018
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Teaching Experience**
+- Graduate Teaching Assistant \| University of Manchester \| 09/2023 - 06/2025
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

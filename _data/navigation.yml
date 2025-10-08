@@ -10,9 +10,12 @@
 main:
   - title: "Experience"
     url: /cv/
+
+  - title: "Publication"
+    url: /publication/
   
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
 
   #- title: "Projects"
   #  url: /teaching/    

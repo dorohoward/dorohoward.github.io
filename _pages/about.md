@@ -34,10 +34,10 @@ redirect_from:
 
 📜 Publication
 ------
-1.  **A. Wei**, N. Kaltsoyannis. <br>"Helium Migration in Zirconolite: A Density Functional Theory Investigation." <br>Journal of Nuclear Materials, 155953 (2025). (Q1 Journal, Impact Factor: 6.2)
-2.  **A. Wei**, R. Zhang, Y. Qin, H. Wang, Q. Ge, and X. Zhu. <br>"Theoretical Insight into Tuning CO2 Methanation and Reverse Water Gas Shift Reactions on MoOx-modified Ni Catalysts." <br>The Journal of Physical Chemistry C, 126, 42, 18078鈥?8089 (2022). (Q2 Journal, Cover Article)
-3.  R. Zhang, **A. Wei**, M. Zhu, X. Wu, H. Wang, Q. Ge, and X. Zhu. <br>"Tuning Reverse Water Gas Shift and Methanation Reactions during CO2 Reduction on Ni Catalysts via Surface Modification by MoOx." <br>Journal of CO2 Utilization, 52:101678 (2021). (Q1 Journal, Impact Factor: 7.1)
-4.  Bahamon, D, **A. Wei**, S. Builes, M. Khaleel, and L. F. Vega.  <br>"Effect of Amine Functionalization of MOF Adsorbents for Enhanced CO2 Capture and Separation: A Molecular Simulation Study." <br>Frontiers in Chemistry, 8:574622 (2021). (Q2 Journal, Impact Factor: 5.2)
+1.  **Wei, A.**; Kaltsoyannis, N. "Helium Migration in Zirconolite: A Density Functional Theory Investigation", J. Nucl. Mater., 2025
+2.  **Wei, A.** et al. "Theoretical Insight into Tuning CO2 Methanation and Reverse Water Gas Shift Reactions on MoOx-modified Ni Catalysts", J. Phys. Chem. C, 2022. (Cover Article)
+3.  Zhang, R.; **Wei, A.** et al. "Tuning Reverse Water Gas Shift and Methanation Reactions during CO2 Reduction on Ni Catalysts via Surface Modification by MoOx", J. CO2 Utilization, 2021
+4.  Bahamon, D; **Wei, A.** et al. "Effect of Amine Functionalization of MOF Adsorbents for Enhanced CO2 Capture and Separation: A Molecular Simulation Study", Front. Chem., 2021
 
 📚 Activities
 ------

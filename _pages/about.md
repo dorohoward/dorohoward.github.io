@@ -13,7 +13,7 @@ redirect_from:
   My background is rooted in theoretical and computational chemistry. Moving forward, my research interests are focused on nanoscale computation, specifically its applications in materials and drug design. I possess strong expertise in various computational methodologies including <b>Density Functional Theory (DFT), molecular simulations (VASP, LAMMPS)</b>, and <b>quantum chemistry calculations (Gaussian)</b>. I am also highly proficient in <b>Python</b> for data analysis and simulation workflow automation, enabling me to explore complex systems for innovative solutions.  
   <br><br>
   Please find my <b>CV</b> and <b>Google Scholar</b> <a href="https://scholar.google.com/citations?hl=en&user=6IZOUtEAAAAJ">here</a>. I am expected to be on the job market in late 2025 / early 2026. Please feel free to reach out :)
-  <br><br>
+  <br>
   Email: <a href="mailto:anlu.wei@postgrad.manchester.ac.uk">anlu.wei@postgrad.manchester.ac.uk</a>
 </p>  
 

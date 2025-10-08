@@ -13,7 +13,10 @@ main:
 
   - title: "Publication"
     url: /publication/
-  
+
+  - title: "Activities"
+    url: /activities/
+
   #- title: "Publications"
   #  url: /publications/
 

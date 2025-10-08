@@ -9,18 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-🎓 Experience
+📚 Activities
 ------
-**Education**  
-- 09/2022 - 09/2026(Expected), Ph.D. in Computational Chemistry, University of Manchester, Manchester in UK.
-- 06/2019 - 06/2022, M.S. in Chemical Technology, Tianjin University (985 & 211 Project), Tianjin in China.
-- 01/2019 - 07/2019, Exchange Student, Khalifa University, Abu Dhabi in UAE.
-- 06/2017 - 08/2017, Exchange Student, Universiti Teknologi PETRONAS, Malaysia.
-- 09/2015 - 06/2019, B.E. in Chemical Engineering and Technology, China University of Petroleum (211 Project), Qingdao in China.
-
-**Research Experience**  
-- Research Assistant \| Chinese Academy of Science \| 06/2018 - 08/2018
-
-**Teaching Experience**
-- Graduate Teaching Assistant \| University of Manchester \| 09/2023 - 06/2025
+**Conference Participantion**  
+- 30th Rare Earth Research Conference (RERC30), Poster, Chicago, USA (June 14-19, 2025)
+- 30th Materials Chemistry Consortium (MCC) Annual Meeting, Poster, Daresbury, UK (July 3-5, 2024)
+- 11th International Conference on f Elements (ICFE11), Poster, Strasbourg, France (August 22-26, 2024)
+- 29th Materials Chemistry Consortium (MCC) Annual Meeting, Poster, Daresbury, UK (June 28-30, 2023)
 

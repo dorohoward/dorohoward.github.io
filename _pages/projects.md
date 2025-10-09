@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-🎓 Projects
+🚀 Projects
 ------
 1.  **Data-Driven Molecular Simulation for CO₂ Capture** <br>
    Frontiers in Chemistry, 2021 - Bahamon, **Wei**, et al. <br><br>

@@ -13,7 +13,9 @@ redirect_from:
 ------
 1.  **Molecular Simulation for CO₂ Capture** <br>
    Frontiers in Chemistry, 2021 - Bahamon, Wei, et al. <br>
-   Developed a molecular simulation framework to evaluate amine-functionalized MOFs for post-combustion CO₂ capture. Using Grand Canonical Monte Carlo (GCMC) simulations, quantified adsorption isotherms, selectivity, and regenerability across several amine configurations. Established structure–property relationships and laid the groundwork for future ML-assisted design of porous adsorbents.
+   <p style="text-align: justify;">
+     Developed a molecular simulation framework to evaluate amine-functionalized MOFs for post-combustion CO₂ capture. Using Grand Canonical Monte Carlo (GCMC) simulations, quantified adsorption isotherms, selectivity, and regenerability across several amine configurations. Established structure–property relationships and laid the groundwork for future ML-assisted design of porous adsorbents.
+   </p>
 
 2.  **Mechanistic and Microkinetic Modeling of CO₂ Hydrogenation on Ni–Mo Catalysts** <br>
    J. CO₂ Utilization, 2021; J. Phys. Chem. C, 2022 - Wei, et al. <br>

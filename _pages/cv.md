@@ -12,11 +12,12 @@ redirect_from:
 🎓 Experience
 ------
 **Education**  
-- 09/2022 - 09/2026, Ph.D. in Computational Chemistry \| University of Manchester \| UK
-- 06/2019 - 06/2022, M.S. in Chemical Technology \| Tianjin University (985 & 211 Project) \| China
-- 01/2019 - 07/2019, Exchange Student \| Khalifa University \| UAE
-- 06/2017 - 08/2017, Exchange Student \| Universiti Teknologi PETRONAS \| Malaysia
-- 09/2015 - 06/2019, B.E. in Chemical Engineering and Technology \| China University of Petroleum (211 Project) \| China
+- **Ph.D. in Computational Chemistry**, University of Manchester, UK (2022 - Present) <br>
+  Advisor: Prof. Nikolas Kaltsoyannis <br> Thesis: Atomic-Scale Modeling of Functional Ceramics and Catalytic Interfaces
+- **M.S. in Chemical Technology**, Tianjin University, China (2019 – 2022) <br>
+  Focus: DFT and microkinetic modeling of CO₂ hydrogenation on Ni–Mo catalysts
+- **B.E. in Chemical Engineering**, China University of Petroleum (2015 – 2019) <br>
+  GPA: 3.7/4.0 (Top 1/28)
 
 **Research Experience**  
 - 06/2018 - 08/2018, Research Assistant \| Chinese Academy of Science \| China 

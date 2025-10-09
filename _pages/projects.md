@@ -12,21 +12,26 @@ redirect_from:
 🚀 Projects
 ------
 1.  **Data-Driven Molecular Simulation for CO₂ Capture** <br>
-   Frontiers in Chemistry, 2021 - Bahamon, **Wei**, et al. <br><br>
-   I developed a molecular simulation framework to evaluate amine-functionalized metal–organic frameworks (MOFs) for post-combustion CO₂ capture. Using Grand Canonical Monte Carlo (GCMC) simulations, we quantified adsorption isotherms, selectivity, and regenerability across several amine configurations. Through systematic data analysis, this work established quantitative structure–property relationships and laid the foundation for future machine-learning-assisted design of porous adsorbents for gas separation and carbon capture.
+   Frontiers in Chemistry, 2021 - Bahamon, Wei, et al. <br>
+   Developed a molecular simulation framework to evaluate amine-functionalized MOFs for post-combustion CO₂ capture. <br>
+   Using Grand Canonical Monte Carlo (GCMC) simulations, quantified adsorption isotherms, selectivity, and regenerability across several amine configurations. <br>
+   Established structure–property relationships and laid the groundwork for future ML-assisted design of porous adsorbents.
 
 2.  **Mechanistic and Microkinetic Modeling of CO₂ Hydrogenation on Ni–Mo Catalysts** <br>
-   J. CO₂ Utilization, 2021; J. Phys. Chem. C, 2022 - **Wei**, et al. <br><br>
-   This two-part study combined density functional theory (DFT), charge-density analysis, and Python-based microkinetic modeling to explore CO₂ hydrogenation on MoOₓ-modified Ni catalysts. 
-   In the first paper (J. CO₂ Util., 2021), I investigated how MoOₓ surface species alter CO₂ adsorption, activation, and electron redistribution at Ni interfaces. 
-   In the follow-up work (J. Phys. Chem. C, 2022), I constructed microkinetic models using Python to identify rate-determining steps and selectivity-controlling factors between CH₄ and CO. 
-Together, these studies linked surface electronic structure to catalytic performance and demonstrated how DFT data workflows and kinetic modeling can guide rational catalyst design.
+   J. CO₂ Utilization, 2021; J. Phys. Chem. C, 2022 - Wei, et al. <br>
+   A two-part project combining DFT, charge-density analysis, and Python-based microkinetic modeling to explore CO₂ hydrogenation on MoOₓ-modified Ni surfaces. <br> 
+   Identified how MoOₓ species modify adsorption energies, reaction barriers, and selectivity between methanation and RWGS reactions. <br> 
+   Linked surface electronic structure and catalytic activity through quantitative descriptors.
 
 3.  **Adsorption and Reaction Energetics of Biomass-Derived Molecules** <br>
-   (Ongoing project, University of Manchester) <br><br>
-   I am currently studying fructose adsorption and dehydration mechanisms on sulfonated silica catalysts using DFT-based surface modeling. By building a library of conformers and slab configurations, this work provides insight into binding geometries, reaction energetics, and active-site effects relevant to sustainable biomass conversion and green chemical production. The project combines ab initio thermodynamics and ML-driven data curation to accelerate catalyst optimization for selective dehydration pathways.
+   (Ongoing project, University of Manchester) <br>
+   Studying fructose adsorption and dehydration on sulfonated silica catalysts using DFT-based surface modeling. <br>
+   Constructed conformer and slab libraries to analyze binding geometries and active-site effects. <br>
+   Combined ab initio thermodynamics and ML-driven data curation to accelerate catalyst optimization for selective dehydration of biomass-derived molecules.
 
 4.  **Defect Chemistry and Diffusion in Functional Ceramics** <br>
-   J. Nuclear Materials, 2025 - **Wei**, Kaltsoyannis <br><br>
-   This project investigates helium diffusion and defect-assisted transport in zirconolite, a complex oxide with outstanding chemical durability. Using DFT, ab initio random structure searching (AIRSS), and climbing-image nudged elastic-band (CI-NEB) methods, I identified anisotropic migration pathways, vacancy-mediated trapping/detrapping mechanisms, and pressure-dependent diffusion coefficients. These results reveal how local defect structures control long-range transport and stability in functional ceramics, providing computational strategies applicable to energy storage and advanced waste-resistant materials.
+   J. Nuclear Materials, 2025 - Wei, Kaltsoyannis <br>
+   First-principles investigation of helium migration in zirconolite, a complex oxide with high chemical durability. <br>
+   Employed DFT, AIRSS, and CI-NEB methods to map anisotropic diffusion pathways and vacancy-mediated trapping/detrapping mechanisms. <br>
+   Quantified pressure-dependent diffusion coefficients and provided a transferable computational framework for defect and diffusion modeling in functional ceramics. 
 

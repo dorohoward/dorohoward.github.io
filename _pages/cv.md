@@ -27,6 +27,3 @@ redirect_from:
 - **Khalifa University (2019)** <br>
   Molecular simulation of amine-functionalized MOFs for post-combustion CO₂ capture using GCMC; evaluated adsorption isotherms, selectivity, and regenerability.
 
-**Teaching Experience**
-- 09/2023 - 06/2025, Graduate Teaching Assistant \| University of Manchester \| UK
-

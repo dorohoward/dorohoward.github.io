@@ -20,7 +20,12 @@ redirect_from:
   GPA: 3.7/4.0 (Top 1/28)
 
 **Research Experience**  
-- 06/2018 - 08/2018, Research Assistant \| Chinese Academy of Science \| China 
+- **University of Manchester (2022 - Present)** <br>
+  Helium diffusion and defect-assisted transport in zirconolite using DFT, AIRSS, and CI-NEB; ML-based analysis of migration energetics.
+- **Tianjin University (2019 – 2022)** <br>
+  CO₂ hydrogenation on MoOₓ–Ni catalysts via DFT and Python-based microkinetic modeling; developed structure–selectivity correlations and kinetic sensitivity analyses.
+- **Khalifa University (2019)** <br>
+  Molecular simulation of amine-functionalized MOFs for post-combustion CO₂ capture using GCMC; evaluated adsorption isotherms, selectivity, and regenerability.
 
 **Teaching Experience**
 - 09/2023 - 06/2025, Graduate Teaching Assistant \| University of Manchester \| UK

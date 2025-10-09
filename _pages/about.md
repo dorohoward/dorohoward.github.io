@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-  Hello! I am a Ph.D. Candidate in Computational Chemistry at the University of Manchester, where I am advised by Prof. <b>Nikolas Kaltsoyannis</b>. Before joining the University of Manchester, I obtained my M.S. degree in Chemical Technology from Tianjin University (Prof. <b>Qingfeng Ge</b>) in 2022. I also hold a B.E. degree in Chemical Engineering and Technology from China University of Petroleum (2019), and completed exchange programs at Khalifa University (Prof. <b>Lourdes F. Vega</b>) and Universiti Teknologi PETRONAS (Malaysia).  
+  Hello! I am a Ph.D. Candidate in Computational Chemistry at the <b>University of Manchester</b>, where I am advised by Prof. Nikolas Kaltsoyannis. Before joining the University of Manchester, I obtained my M.S. degree in Chemical Technology from <b>Tianjin University</b> (Prof. Qingfeng Ge) in 2022. I also hold a B.E. degree in Chemical Engineering and Technology from <b>China University of Petroleum</b> (2019), and completed exchange programs at Khalifa University (Prof. Lourdes F. Vega) and Universiti Teknologi PETRONAS (Malaysia).  
   <br><br>
   My background is rooted in theoretical and computational chemistry. Moving forward, my research interests are focused on nanoscale computation, specifically its applications in materials and drug design. I possess strong expertise in various computational methodologies including <b>Density Functional Theory (DFT), molecular simulations (VASP, LAMMPS)</b>, and <b>quantum chemistry calculations (Gaussian)</b>. I am also highly proficient in <b>Python</b> for data analysis and simulation workflow automation, enabling me to explore complex systems for innovative solutions.  
   <br><br>

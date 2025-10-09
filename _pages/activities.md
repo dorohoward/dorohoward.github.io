@@ -18,6 +18,6 @@ redirect_from:
   - 30th Materials Chemistry Consortium (MCC) Annual Meeting, Poster, Daresbury, UK (July 3-5, 2024)
   - 11th International Conference on f Elements (ICFE11), Poster, Strasbourg, France (August 22-26, 2024)
   - 29th Materials Chemistry Consortium (MCC) Annual Meeting, Poster, Daresbury, UK (June 28-30, 2023)
-- **Collaborations**:  
-  - Tianjin University (catalyst surface modeling); Khalifa University (CO₂ capture and molecular simulation)
+- **Collaborations**: <br>
+  Tianjin University (catalyst surface modeling); Khalifa University (CO₂ capture and molecular simulation)
 

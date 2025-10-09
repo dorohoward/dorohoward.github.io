@@ -41,6 +41,6 @@ Together, these studies linked surface electronic structure to catalytic perform
    I am currently studying fructose adsorption and dehydration mechanisms on sulfonated silica catalysts using DFT-based surface modeling. By building a library of conformers and slab configurations, this work provides insight into binding geometries, reaction energetics, and active-site effects relevant to sustainable biomass conversion and green chemical production. The project combines ab initio thermodynamics and ML-driven data curation to accelerate catalyst optimization for selective dehydration pathways.
 
 4.  **Defect Chemistry and Diffusion in Functional Ceramics** <br>
-   J. Nuclear Materials, 2025 - **Wei**, Kaltsoyannis
+   J. Nuclear Materials, 2025 - **Wei**, Kaltsoyannis <br><br>
    This project investigates helium diffusion and defect-assisted transport in zirconolite, a complex oxide with outstanding chemical durability. Using DFT, ab initio random structure searching (AIRSS), and climbing-image nudged elastic-band (CI-NEB) methods, I identified anisotropic migration pathways, vacancy-mediated trapping/detrapping mechanisms, and pressure-dependent diffusion coefficients. These results reveal how local defect structures control long-range transport and stability in functional ceramics, providing computational strategies applicable to energy storage and advanced waste-resistant materials.
 

@@ -10,7 +10,10 @@
 main:
   - title: "Experience"
     url: /cv/
-
+    
+  - title: "Projects"
+    url: /projects/
+    
   - title: "Publication"
     url: /publication/
 

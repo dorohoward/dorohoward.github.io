@@ -11,7 +11,7 @@ redirect_from:
 
 🚀 Projects
 ------
-1.  **Data-Driven Molecular Simulation for CO₂ Capture** <br>
+1.  **Molecular Simulation for CO₂ Capture** <br>
    Frontiers in Chemistry, 2021 - Bahamon, Wei, et al. <br>
    Developed a molecular simulation framework to evaluate amine-functionalized MOFs for post-combustion CO₂ capture. Using Grand Canonical Monte Carlo (GCMC) simulations, quantified adsorption isotherms, selectivity, and regenerability across several amine configurations. Established structure–property relationships and laid the groundwork for future ML-assisted design of porous adsorbents.
 

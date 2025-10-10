@@ -14,7 +14,7 @@ redirect_from:
   <br><br>
   Recent projects include <b>CO₂ hydrogenation on Ni–Mo catalysts, helium diffusion in zirconolite</b>, and <b>fructose dehydration on silica</b>. By integrating physics-based simulations with data-driven modeling, I aim to accelerate the <b>computational discovery of materials for sustainable energy, electronic, and biomedical applications</b>, with particular interests in semiconductors, batteries, and drug design.
   <br><br>
-  Please find my <a href="https://weianlu.github.io/files/CV_new.pdf"><b>CV</b></a> and <a href="https://scholar.google.com/citations?hl=en&user=6IZOUtEAAAAJ"><b>Google Scholar</b></a> here. I am expected to be on the job market in late 2025 / early 2026. Please feel free to reach out :)
+  Please find my <a href="https://weianlu.github.io/files/CV_new.pdf"><b>CV</b></a> and <a href="https://scholar.google.com/citations?hl=en&user=6IZOUtEAAAAJ"><b>Google Scholar</b></a> here. I am expected to be on the job market in 2026 ~ 2027. Please feel free to reach out :)
   <br>
   Email: <a href="mailto:anlu.wei@postgrad.manchester.ac.uk">anlu.wei@postgrad.manchester.ac.uk</a>
 </p>  

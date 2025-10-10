@@ -27,3 +27,11 @@ redirect_from:
    (Ongoing project, University of Manchester) <br> 
    Studying fructose adsorption and dehydration on sulfonated silica catalysts using DFT-based surface modeling. Constructed conformer and slab libraries to analyze binding geometries and active-site effects. Combined ab initio thermodynamics and ML-driven data curation to accelerate catalyst optimization for selective dehydration of biomass-derived molecules.
 
+<ol>
+  <li>
+    <b>Molecular Simulation for CO₂ Capture</b> <br>
+    Frontiers in Chemistry, 2021 - Bahamon, Wei, et al. <br>
+    <p style="text-align: justify;">Developed a molecular simulation framework to evaluate amine-functionalized MOFs for post-combustion CO₂ capture. Using Grand Canonical Monte Carlo (GCMC) simulations, quantified adsorption isotherms, selectivity, and regenerability across several amine configurations. Established structure–property relationships and laid the groundwork for future ML-assisted design of porous adsorbents.
+    </p>
+  </li>
+</ol>

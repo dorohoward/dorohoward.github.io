@@ -13,7 +13,7 @@ redirect_from:
 ------
 **Education**  
 - **Ph.D. in Computational Chemistry**, University of Manchester, UK (2022 - Present) <br>
-  Advisor: Prof. Nikolas Kaltsoyannis <br> Thesis: Atomic-Scale Modeling of Functional Ceramics and Catalytic Interfaces
+  Advisor: Prof. Nikolas Kaltsoyannis <br> Thesis: First-Principles Study of Helium Migration in Zirconolite
 - **M.S. in Chemical Technology**, Tianjin University, China (2019 – 2022) <br>
   Focus: DFT and microkinetic modeling of CO₂ hydrogenation on Ni–Mo catalysts
 - **B.E. in Chemical Engineering**, China University of Petroleum (2015 – 2019) <br>

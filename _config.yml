@@ -9,32 +9,32 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Anlu Wei"
+title                    : "Zhenglong Cong"
 title_separator          : "-"
-name                     : &name "Anlu Wei"
+name                     : &name "Zhenglong Cong"
 description              : &description "personal description"
-url                      : https://weianlu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://dorohoward.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weianlu/weianlu.github.io"
+repository               : "dorohoward/dorohoward.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  name             : "&emsp;Anlu Wei"
+  name             : "&emsp;Zhenglong Cong"
   avatar           : "profile.png"
   pronouns         : # example: "she/her"  
-  bio              : "&emsp;Ph.D. Candidate"
-  location         : "Manchester, UK"
-  employer         : "University of Manchester"
+  bio              : "&emsp;M.A. student"
+  location         : "Beijing, China"
+  employer         : "Renmin University of China"
   uri              : #"https://www.manchester.ac.uk/"
-  email            : "anlu.wei@manchester.ac.uk"
+  email            : "congzhenglong@ruc.edu.cn"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=6IZOUtEAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=6IZOUtEAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL

@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-📜 Publications
+📜 Publication
 ------
-1.  **Wei, A.**; Kaltsoyannis, N. *Helium Migration in Zirconolite: A Density Functional Theory Investigation*. **Journal of Nuclear Materials**, 2025
-2.  **Wei, A.**; Ge, Q. *Theoretical Insight into Tuning CO2 Methanation and Reverse Water Gas Shift Reactions on MoOx-modified Ni Catalysts*. **Journal of Physical Chemistry C**, 2022. (Cover Article)
-3.  Zhang, R.; **Wei, A.**; et al. *Tuning Reverse Water Gas Shift and Methanation Reactions during CO2 Reduction on Ni Catalysts via Surface Modification by MoOx*. **Journal of CO2 Utilization**, 2021
-4.  Bahamon, D; **Wei, A.**; et al. *Effect of Amine Functionalization of MOF Adsorbents for Enhanced CO2 Capture and Separation: A Molecular Simulation Study*. **Frontiers in Chemistry**, 2021
+- Lin, X., man Hui, E. C., **Cong, Zhenglong**, and Shen, J. [Solving Coordination Failures: Collective Land Transfer Rights and Rural Entrepreneurship.](https://www.sciencedirect.com/science/article/abs/pii/S0304387825001609) *Journal of Development Economics* 178, 1 (2026), 103609
+  
+  This study explores whether strengthening communal land rights can address coordination failures caused by fragmented land tenure. Based on China's ambitious land reform that permits rural collectives to directly sell or rent their construction land to enterprises, we discover that collective land transfer rights boost rural entrepreneurship by 25%. This positive firm growth is entirely concentrated in regions where collective coordination is simpler to achieve (i.e., less rugged areas and regions with denser clan networks). We identify two specific pathways behind the entrepreneurial growth: lower land use costs for firms and increased land wealth for local residents. The reform also facilitates expansion into non-farm wage employment, mainly due to more active participation in the labor market rather than via a decline in the agricultural sector. Our findings emphasize the importance of communal rights and collective negotiation in reducing coordination costs and offer new insights into promoting rural development in developing countries.
+

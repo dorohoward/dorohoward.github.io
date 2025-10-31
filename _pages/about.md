@@ -22,15 +22,23 @@ redirect_from:
 🌟 Recent Research Highlights
 ------
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/pub01.png' alt="pic" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div>
+  <table style="border-collapse: collapse; border: none;">
+    
+  <tr><td width="300" style="border: none;">
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="images/pub01.png" width="400"></div>
+  </td>
+  <td style="border: none;">
+  <div class="col align-self-center pub">
+    <p class="pub-p" style="color: #B22222;"><font size=3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387825001609">Solving Coordination Failures: Collective Land Transfer Rights and Rural Entrepreneurship</a></font></p>
+    <p class="pub-p"><font size=2>Strengthening communal land transfer rights enhances rural entrepreneurship—particularly in areas where collective coordination is more feasible—by reducing land use costs and increasing local land wealth.</font></p>
+  </div>
+  </td></tr>
   
-[Solving Coordination Failures: Collective Land Transfer Rights and Rural Entrepreneurship](https://www.sciencedirect.com/science/article/abs/pii/S0304387825001609) \\  
+  
+  </table>
+</div>
 
-[**Project**]()  
-- Strengthening communal land transfer rights enhances rural entrepreneurship—particularly in areas where collective coordination is more feasible—by reducing land use costs and increasing local land wealth.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/pub02.png' alt="pic" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

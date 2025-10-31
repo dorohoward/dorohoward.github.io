@@ -16,7 +16,7 @@ redirect_from:
   <br>
   Development economics:  human capital, health, education.  
   <br><br>
-  Learn more from my [CV](). If you are interested in any aspect of my work, I would love to chat and collaborate. Please feel free to contact me via email: <a href="mailto:congzhenglong@ruc.edu.cn">congzhenglong@ruc.edu.cn</a>
+  Learn more from my <a href="https://dorohoward.github.io/files/CV.pdf">CV</a>. If you are interested in any aspect of my work, I would love to chat and collaborate. Please feel free to contact me via email: <a href="mailto:congzhenglong@ruc.edu.cn">congzhenglong@ruc.edu.cn</a>
 </p>  
 
 🌟 Recent Research Highlights

@@ -61,7 +61,7 @@ redirect_from:
 
 <p>
 <!--<center>-->
-  <div id="clustrmaps-widget" style="width:5%">
+  <div id="clustrmaps-widget" style="width:2%">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hNeBVpaFAAPkv4mQiwgmMyidtXTtKcWBSBl3K7KB6Ro"></script>
   </div> 
 <!--</center>-->
